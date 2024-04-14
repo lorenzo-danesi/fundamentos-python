@@ -8,3 +8,11 @@ O conteúdo deste repositório é baseado na trilha de linguagem Python da DIO (
 - Manipulando Strings
 
 O repositório oficial da trilha pode ser encontrado [clicando aqui](https://github.com/digitalinnovationone/trilha-python-dio).
+
+### Desafios
+
+Lista de desafios utilizando a linguagem de programação Python do módulo: *Desafio de Código SQUADIO - Iniciante* 
+
+- Desafio: A Aventura do Explorador
+- Desafio: Lista de itens
+- Desafio: Armazenamento de Dados é Vida!
