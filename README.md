@@ -1,6 +1,6 @@
-# Fundamentos da linguagem PYTHON 👩‍💻🐍
+# Fundamentos da linguagem PYTHON 👨🏻‍💻🐍
 
-O conteúdo deste repositório é baseado na trilha de linguagem Python da DIO (Digital Innovation One) . Os módulos que compõem a trilha são:
+O conteúdo deste repositório é baseado na trilha de linguagem Python da DIO (Digital Innovation One). Os módulos que compõem a trilha são:
 
 - Conhecendo a Linguagem de Programação Python
 - Tipos de Operadores com Python
